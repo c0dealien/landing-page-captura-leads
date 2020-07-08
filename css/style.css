@@ -15,6 +15,7 @@
 
 /* Body */
 body {
+	background-color: #141414;
 	font-family: Jost, Roboto, 'Open Sans', sans-serif;
 	letter-spacing: -.5px;
 	font-size: 1.12rem;
@@ -48,6 +49,7 @@ body {
 
 /* Color palette */
 .text-primary { color: #ff1768 !important; }
+.text-secondary { color: #ffda19 !important; }
 
 /* Header */
 #header .content {
@@ -88,4 +90,4 @@ body {
 	}
 }
 
-/* ajustar botão pra versões mobile e tablet */
+/* Section: Quem Deve Usar */
