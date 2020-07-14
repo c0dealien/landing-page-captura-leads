@@ -91,3 +91,24 @@ body {
 }
 
 /* Section: Quem Deve Usar */
+.section_quem_deve_usar {
+	padding-bottom: 40px;
+}
+
+/* Section: Custo */
+.section_custo .wrapper {
+	background-color: #fff;
+	position: relative;
+	top: -75px;
+	border-radius: 5px;
+	padding: 50px;
+	box-shadow: 0 0 5px 5px rgba(0, 0, 0, .15);
+}
+.section_custo .payment_methods li {
+	display: inline-block;
+	margin-right: 10px;
+}
+.section_custo .btn_cta {
+	font-size: 1.15rem;
+	padding: 10px 20px;
+}
